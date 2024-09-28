@@ -1,4 +1,4 @@
 # GPTusingKAN
 
 
-First step - Playing around with KAN framework - DONE
+First step - Playing around with KAN framework 
